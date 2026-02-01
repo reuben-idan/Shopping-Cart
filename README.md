@@ -35,3 +35,6 @@ python -m pytest -v
 
 ## Step 1 Complete
 Implemented shopping cart with ability to add products and calculate total price.
+
+## Step 2 Complete
+Added support for adding additional products of the same type to the cart.
