@@ -38,3 +38,6 @@ Implemented shopping cart with ability to add products and calculate total price
 
 ## Step 2 Complete
 Added support for adding additional products of the same type to the cart.
+
+## Step 3 Complete
+Added tax calculation with proper rounding for multiple items in the cart.
